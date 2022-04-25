@@ -1,3 +1,3 @@
-# Database-crackyourlife
+# Database of Leaks
 
-Database crackyourlife leak
+Database "simplify-your-life" leak
